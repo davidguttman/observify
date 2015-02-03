@@ -1,5 +1,7 @@
 # observify-varhash
 
+This is just a fork of [observify](https://github.com/maxogden/observify), but uses [observ-varhash](https://github.com/nrw/observ-varhash) for objects instead of [observ-struct](https://github.com/raynos/observ-struct) so that keys can be added and removed.
+
 Converts JS objects into their [observable](https://github.com/raynos/mercury#observ) equivalents using [observ](https://github.com/Raynos/observ), [observ-array](https://github.com/Raynos/observ-array) and [observ-varhash](https://github.com/nrw/observ-varhash). Designed for use with [mercury](https://github.com/raynos/mercury)
 
 [![NPM](https://nodei.co/npm/observify.png?global=true)](https://nodei.co/npm/observify-varhash/)
