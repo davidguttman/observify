@@ -4,7 +4,7 @@ This is just a fork of [observify](https://github.com/maxogden/observify), but u
 
 Converts JS objects into their [observable](https://github.com/raynos/mercury#observ) equivalents using [observ](https://github.com/Raynos/observ), [observ-array](https://github.com/Raynos/observ-array) and [observ-varhash](https://github.com/nrw/observ-varhash). Designed for use with [mercury](https://github.com/raynos/mercury)
 
-[![NPM](https://nodei.co/npm/observify.png?global=true)](https://nodei.co/npm/observify-varhash/)
+[![NPM](https://nodei.co/npm/observify-varhash.png?global=true)](https://nodei.co/npm/observify-varhash/)
 
 ## installation
 
